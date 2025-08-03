@@ -1,0 +1,2 @@
+# jogotecnico
+personagem-tecnico.glb
